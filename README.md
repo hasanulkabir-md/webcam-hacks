@@ -28,7 +28,7 @@
   ```
   ```
 
-* **`.gitignore`**: To avoid committing unnecessary files, such as virtual environments, Python bytecode, and temporary files. Example `.gitignore`:
+**`.gitignore`**: To avoid committing unnecessary files, such as virtual environments, Python bytecode, and temporary files. Example `.gitignore`:
 
   ```
   __pycache__/
@@ -36,6 +36,3 @@
   *.pyo
   .venv/
   ```
-
-
-By organizing your project with a clear folder structure and proper documentation, your GitHub repository will be easier to understand and contribute to, making it professional and user-friendly.
