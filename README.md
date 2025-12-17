@@ -1,5 +1,5 @@
-  ````markdown
-  # Webcam Hacks
+
+ # Webcam Hacks
 
   This project allows you to control your social media using webcam gestures. By detecting a yellow color on the screen, it triggers actions like pressing the spacebar.
 
